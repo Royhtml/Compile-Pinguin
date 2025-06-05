@@ -4,6 +4,8 @@
 <img src = "roy.ico">
 </div></center>
 
+<a href = "https://www.tiktok.com/@royhtml/video/7512479324323302662?is_from_webapp=1&sender_device=pc&web_id=7489705398321759751">Video Tutorials</a>
+
 ## Extended Statistical Analysis
 
 <center><div class ="center">
