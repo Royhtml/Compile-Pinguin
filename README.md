@@ -1,13 +1,13 @@
 # Compile Pinguin - Ultimate Security Suite (Enhanced Edition)
 
 <center><div class ="center">
-<img src = "roy.png">
+<img src = "roy.ico">
 </div></center>
 
 ## Extended Statistical Analysis
 
 <center><div class ="center">
-<img src = "roy2.png">
+<img src = "Screenshot 2025-06-06 022344.png">
 </div></center>
 
 ### Market Adoption Metrics (2023-2024)
