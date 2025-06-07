@@ -12,7 +12,7 @@
 <img src = "Screenshot 2025-06-06 022344.png">
 </div></center>
 
-### Market Adoption Metrics (2023-2024)
+### Market Adoption Metrics (2025)
 | Tool | Downloads | Enterprise Users | Vulnerability Reports | Avg. Protection Score |
 |------|-----------|------------------|-----------------------|-----------------------|
 | Compile Penguin | 1.2M | 4,500 | 12 | 9.8/10 |
