@@ -8,6 +8,10 @@ pip install pinguin2
 pinguin
 ```
 
+## Documentation Installation
+
+<a href = "https://pypi.org/project/pinguin2/">Documentation</a>
+
 # Compile Pinguin - Ultimate Security Suite (Enhanced Edition)
 
 <center><div class ="center">
