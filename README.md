@@ -1,3 +1,13 @@
+# Pip Install pinguin2
+
+```bash
+pip install pinguin2
+```
+
+```bash
+pinguin
+```
+
 # Compile Pinguin - Ultimate Security Suite (Enhanced Edition)
 
 <center><div class ="center">
@@ -5,6 +15,9 @@
 </div></center>
 
 <a href = "https://www.tiktok.com/@royhtml/video/7512479324323302662?is_from_webapp=1&sender_device=pc&web_id=7489705398321759751">Video Tutorials</a>
+
+<a href = "https://pypi.org/project/pinguin2/"><img src = "https://img.shields.io/pypi/v/pinguin2?color=blue&label=pypi&logo=pypi&logoColor=white"></a>
+
 
 ## Extended Statistical Analysis
 
